@@ -1,5 +1,5 @@
 {
-  "name": "project-4",
+  "name": "project-6",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,7 +17,11 @@
   },
   "dependencies": {
     "@styled-icons/material-outlined": "^10.28.0",
+    "disqus-react": "^1.0.11",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0",
     "next": "10.0.7",
+    "prismjs": "^1.23.0",
     "prop-types": "^15.7.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
@@ -32,7 +36,8 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@types/node": "^14.14.31",
-    "@types/react": "^17.0.2",
+    "@types/prismjs": "^1.16.3",
+    "@types/react": "^18.0.1",
     "@types/styled-components": "^5.1.7",
     "@typescript-eslint/eslint-plugin": "^4.15.2",
     "@typescript-eslint/parser": "^4.15.2",
